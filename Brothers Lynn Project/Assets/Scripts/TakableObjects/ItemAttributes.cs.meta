@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12e64d52e88bc9549b12580428e9680f
+timeCreated: 1475341186
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCam: {instanceID: 0}
+  - soundSphere: {fileID: 1000010451771700, guid: 9665c3e3f68b6f24185696718f980d17,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
